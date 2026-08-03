@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 9 |
+| 25 | 10 |
 
 ---
 
@@ -15,12 +15,13 @@
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (6)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (11)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (12)
 - [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 
 ---
 
@@ -47,6 +48,12 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/2009/A%20-%20Minimize!/solution.java) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -55,6 +62,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 
 ### implementation
@@ -71,6 +79,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/SnehaVadla/DSA/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.java) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.java) |
 
 ### math
@@ -111,6 +120,7 @@
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/SnehaVadla/DSA/blob/HEAD/520/A%20-%20Pangram/solution.py) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 
 ---
 
