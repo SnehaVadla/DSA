@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 10 |
+| 40 | 11 |
 
 ---
 
@@ -14,13 +14,14 @@
 
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (6)
-- [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (12)
-- [math](#math) (12)
+- [brute force](#brute-force) (7)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [greedy](#greedy) (9)
+- [implementation](#implementation) (20)
+- [math](#math) (22)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (3)
+- [probabilities](#probabilities) (1)
+- [sortings](#sortings) (5)
 - [strings](#strings) (4)
 
 ---
@@ -42,6 +43,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/268/A%20-%20Games/solution.java) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Python 3](https://github.com/SnehaVadla/DSA/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.py) |
@@ -52,6 +54,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 
 ### greedy
@@ -59,8 +62,11 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
+| 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1367/B%20-%20Even%20Array/solution.java) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
@@ -70,17 +76,25 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/200/B%20-%20Drinks/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/SnehaVadla/DSA/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
+| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/SnehaVadla/DSA/blob/HEAD/520/A%20-%20Pangram/solution.py) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/SnehaVadla/DSA/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
+| 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.java) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1742/A%20-%20Sum/solution.java) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.java) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
+| 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [Python 3](https://github.com/SnehaVadla/DSA/blob/HEAD/2155/A%20-%20El%20fucho/solution.py) |
 
 ### math
 
@@ -88,16 +102,26 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/1/A%20-%20Theatre%20Square/solution.java) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/9/A%20-%20Die%20Roll/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/200/B%20-%20Drinks/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/SnehaVadla/DSA/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/617/A%20-%20Elephant/solution.java) |
+| 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.java) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Python 3](https://github.com/SnehaVadla/DSA/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/SnehaVadla/DSA/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
+| 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1367/B%20-%20Even%20Array/solution.java) |
+| 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.java) |
+| 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.java) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/2009/A%20-%20Minimize!/solution.java) |
 | 2051B | [Journey](https://codeforces.com/contest/2051/problem/B) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/2051/B%20-%20Journey/solution.java) |
 | 2126E | [G-C-D, Unlucky!](https://codeforces.com/contest/2126/problem/E) | 1400 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/2126/E%20-%20G-C-D%2C%20Unlucky!/solution.java) |
+| 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [Python 3](https://github.com/SnehaVadla/DSA/blob/HEAD/2155/A%20-%20El%20fucho/solution.py) |
 
 ### number theory
 
@@ -105,11 +129,19 @@
 |---|---------|------------|----------|
 | 2126E | [G-C-D, Unlucky!](https://codeforces.com/contest/2126/problem/E) | 1400 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/2126/E%20-%20G-C-D%2C%20Unlucky!/solution.java) |
 
+### probabilities
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/9/A%20-%20Die%20Roll/solution.java) |
+
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Java 21](https://github.com/SnehaVadla/DSA/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 
