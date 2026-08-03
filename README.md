@@ -6,15 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 4 |
+| 2 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
+- [games](#games) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
+- [number theory](#number-theory) (1)
 - [strings](#strings) (1)
 
 ---
@@ -24,6 +27,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
 ### greedy
 
@@ -36,6 +45,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 8](https://github.com/SnehaVadla/DSA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
 ### strings
 
