@@ -14,17 +14,8 @@ class Solution {
         }
        }
        int i=0;
-       while(i!=c0){
-        nums[i]=0;
-        i++;
-       } 
-       while(i!=c1+c0){
-        nums[i]=1;
-        i++;
-       }
-       while(i!=c2+c1+c0){
-        nums[i]=2;
-        i++;
-       }
+       while(c0-->0) nums[i++]=0;
+       while(c1-->0) nums[i++]=1;
+       while(c2-->0) nums[i++]=2;
     }
 }
